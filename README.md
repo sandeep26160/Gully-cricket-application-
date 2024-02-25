@@ -1,1 +1,1 @@
-# Gully-cricket-application-
+Virtual Cricket Game Application
